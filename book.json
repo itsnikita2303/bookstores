@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe0"
+  },
+  "id": 1,
+  "name": "Story Book 1",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 0,
+  "category": "Free",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+},
+{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe1"
+  },
+  "id": 2,
+  "name": "Story Book 2",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 0,
+  "category": "Free",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+},
+{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe2"
+  },
+  "id": 3,
+  "name": "Story Book 3",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 0,
+  "category": "Free",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+},
+{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe3"
+  },
+  "id": 4,
+  "name": "Sports Book",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 20,
+  "category": "Entertainment",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+},
+{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe4"
+  },
+  "id": 5,
+  "name": "Comedy Book",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 30,
+  "category": "Entertainment",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+},
+{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe5"
+  },
+  "id": 6,
+  "name": "song Book",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 40,
+  "category": "Entertainment",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+},
+{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe6"
+  },
+  "id": 7,
+  "name": "psycho Book",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 50,
+  "category": "Entertainment",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+},
+{
+  "_id": {
+    "$oid": "6667ef905aee981a483adfe7"
+  },
+  "id": 8,
+  "name": "Story Book",
+  "title": "Loren, ipsum dolor sit anet consectetur adipisicing elit.",
+  "price": 50,
+  "category": "Entertainment",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718082583~exp=1718086183~hmac=87458131f38fcf67e19f2badf2104b76fb6df331831c4ad8a9bbdc5fff94cdcc&w=740"
+}]
